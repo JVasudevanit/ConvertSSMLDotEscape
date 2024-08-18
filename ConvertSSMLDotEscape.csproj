@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>SSMLConvert.DotEscape</PackageId>
+    <Title>Conversion of text with unique format into SSML</Title>
+    <Version>1.0.0</Version>
+    <Authors>Technix</Authors>
+    <Company>SSMLConvert.DotEscape</Company>
+    <Product>SSMLConvert.DotEscape</Product>
+  </PropertyGroup>
+
+</Project>
