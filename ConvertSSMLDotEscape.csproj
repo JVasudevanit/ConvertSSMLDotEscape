@@ -12,6 +12,8 @@
     <Authors>Technix</Authors>
     <Company>SSMLConvert.DotEscape</Company>
     <Product>SSMLConvert.DotEscape</Product>
+    <RepositoryUrl>https://github.com/JVasudevanit/ConvertSSMLDotEscape</RepositoryUrl>
+    <PackageReleaseNotes>In this release the space, volume, pitch, and rate are considered.</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
